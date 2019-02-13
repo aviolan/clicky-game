@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "abra.png"
+    },
+    {
+      "id": 2,
+      "image": "bulbasaur.png"    
+    },
+    {
+      "id": 3,
+      "image": "caterpie.png"
+    },
+    {
+      "id": 4,
+      "image": "charmander.png" 
+    },
+    {
+      "id": 5,
+      "image": "cubone.png"
+    },
+    {
+      "id": 6,
+      "image": "dragonite.png"
+    },
+    {
+      "id": 7,
+      "image": "geodude.png"
+    },
+    {
+      "id": 8,
+      "image": "meowth.png"
+    },
+    {
+      "id": 9,
+      "image": "pidgey.png"
+    },
+    {
+      "id": 10,
+      "image": "pikachu.png"
+    },
+    {
+      "id": 11,
+      "image": "squirtle.png"
+    },
+    {
+      "id": 12,
+      "image": "staryu.png"
+    }
+  ]
